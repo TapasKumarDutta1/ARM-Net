@@ -1,4 +1,4 @@
-# GAN Examples
+# WGAN Examples
 
 
 IMage          |  Mask

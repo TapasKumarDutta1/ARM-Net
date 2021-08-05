@@ -20,3 +20,10 @@ Dice          |  target
 
 
 ## References
+- H-DenseUNet: Hybrid Densely Connected UNet for Liver and Tumor Segmentation from CT Volumes, TMI 2018 Xiaomeng Li, Hao Chen, Xiaojuan Qi, Qi Dou, Chi-Wing Fu, Pheng-Ann Heng
+- TOWARDS FEDERATED LEARNING AT SCALE: SYSTEM DESIGN Keith Bonawitz 1 Hubert Eichner 1 Wolfgang Grieskamp 1 Dzmitry Huba 1 Alex Ingerman 1 Vladimir Ivanov 1
+Chloe Kiddon ´
+1 Jakub Konecnˇ y´
+1 Stefano Mazzocchi 1 H. Brendan McMahan 1 Timon Van Overveldt 1
+David Petrou 1 Daniel Ramage 1 Jason Roselander 
+- Wasserstein GAN Martin Arjovsky, Soumith Chintala, Léon Bottou

@@ -5,7 +5,7 @@ Implemented HDenseUNet for segmentation. Trained using federated learning approa
 ## WGAN Examples
 
 
-IMage          |  Mask
+Image          |  Mask
 :-------------------------:|:-------------------------:
 ![](image_2.png)  |  ![](seg_2.png)
 ![](image_1.png)  |  ![](seg_1.png)

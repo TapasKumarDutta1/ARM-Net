@@ -8,6 +8,8 @@ Trained it on Lits dataset and tested on 3DDirac dataset.
 Input|Mask
  --- | ---
 ![alt text](image.png) | ![alt text](seg.png)
+![alt text](image_1.png) | ![alt text](seg_1.png)
+![alt text](image_2.png) | ![alt text](seg_2.png)
  
 # Results
 

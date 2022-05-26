@@ -1,4 +1,8 @@
-# Requirements
+## CDANET
+This repository contains the Tensorflow implementation of our paper "CDANET: CHANNEL SPLIT DUAL ATTENTION BASED CNN FOR BRAIN TUMOR
+CLASSIFICATION IN MR IMAGES"
+
+## Requirements
 Python 3.7.13 <br />
 Numpy 1.21.6 <br />
 Tensorflow 2.8.0 <br />

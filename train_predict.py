@@ -5,6 +5,7 @@ import scipy.io
 from imgaug import augmenters as iaa
 import pandas as pd
 import gc
+from sklearn.metrics import *
 
 from tensorflow.keras.layers import *
 from tensorflow.keras.applications import *
@@ -225,7 +226,7 @@ def train_predict(index):
   
   pre=model.predict(tst_x)
   pre=np.argmax(pre,1)
-  predictions_last[fold]=pre
-  new_acc=accuracy_score(pre,tst_y)
+  print(accuracy_score(pre,tst_y))
+    
 index=1
 train_predict(index)

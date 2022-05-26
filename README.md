@@ -9,11 +9,11 @@ Numpy 1.21.6 <br />
 <br />
 Tensorflow 2.8.0 <br />
 <br />
-opencv-python 4.1.2 <br />
+Opencv-python 4.1.2 <br />
 <br />
 Pandas 1.3.5 <br />
 <br />
 h5py 3.1.0 <br />
 <br />
-imgaug 0.2.9 <br />
+Imgaug 0.2.9 <br />
 <br />

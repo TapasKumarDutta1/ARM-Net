@@ -30,7 +30,7 @@ Imgaug 0.2.9 <br />
 
 - If you want to train the model, download the dataset
 
-- Run the following code: python train.py Note that parameters and paths should be set beforehand
+- Run the following code: python train.py. Note that parameters and paths should be set beforehand
 
 - To test the model, run test.py once the training is complete. Execute python test.py once training is complete.
 

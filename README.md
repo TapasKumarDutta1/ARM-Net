@@ -17,3 +17,13 @@ h5py 3.1.0 <br />
 <br />
 Imgaug 0.2.9 <br />
 <br />
+
+## Useage
+- Clone the repository, and download the weights of the trained model, put them into 'weights-cdanet' folder, you can run test.py to test the model directly. 
+
+- If you want to train the model, download the dataset
+
+- And then run the code：python train.py Note that the parameters and paths should be set beforehand
+- 
+- Once the training is complete, you can run the test.py to test your model. Run the code : python test.py.
+

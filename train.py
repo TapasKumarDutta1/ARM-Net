@@ -214,7 +214,6 @@ def train(index):
   trn,tst=get_trn_tst(df,index)
   model=load_model()
   trn_x,trn_y=unison_shuffled_copies(trn[0],trn[1])
-  tst_x,tst_y=unison_shuffled_copies(tst[0],tst[1])
   train_data = DataGenerator(trn_x,pd.get_dummies(trn_y), batch_size=4, augment=True)
   ln=len(trn_y)
   model.compile(optimizer=Adam(1e-2,decay=1e-3), 

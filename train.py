@@ -210,8 +210,6 @@ def upd(dk,data):
   return dk
 def train(index):
   epoch=50
-  pre_acc=0
-  best=0
   fold='fold_'+str(index)
   trn,tst=get_trn_tst(df,index)
   model=load_model()

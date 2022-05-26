@@ -32,6 +32,15 @@ Imgaug 0.2.9 <br />
 
 - Run the following code: python train.py. Note that parameters and paths should be set beforehand
 
-- To test the model, run test.py once the training is complete. Execute python test.py once training is complete.
+- To test the model, run test.py once the training is complete. Execute python test.py once training is complete. 
 
+## Brats2020 
+Brats is a 3d dataset with 2 different labels 293 HGG and 76 LGG samples. We used a stratified five fold cross validation scheme and trained the entire model in an end to end manner.
+ 
+## Results
+
+Dataset Used|Five Fold Average Accuracy
+ --- | ---
+Brats 2020 | 0.9653
+Figshare | 0.9660
 

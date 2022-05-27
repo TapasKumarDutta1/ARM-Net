@@ -49,7 +49,7 @@ Attention Used|Fold|Class| Precision | Recall | F1-score
 CAB|Fold 1|Meningioma|0.9910|0.9098|0.9486
 CAB|Fold 1|Glioma|0.9836|0.9917|0.9876
 CAB|Fold 1|Pituitary|0.9567|1.0|0.9778
-CAB|Fold 2|Meningioma|0.9281|0.9281|1.0
+CAB|Fold 2|Meningioma|0.9281|0.9281|0.9281
 CAB|Fold 2|Glioma|0.9704|0.9507|0.9604
 CAB|Fold 2|Pituitary|0.9540|0.9940|0.9735
 CAB|Fold 3|Meningioma|0.9568|0.8986|0.9267

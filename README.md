@@ -44,5 +44,9 @@ Dataset Used|Five Fold Average Accuracy
 Brats 2020 | 0.9653
 Figshare | 0.9660
 
-Attention Used|Fold1(Meningioma)|Fold1(Glioma)|Fold1(Pituitary)|Fold2(Meningioma)|Fold2(Glioma)|Fold2(Pituitary)|Fold3(Meningioma)|Fold3(Glioma)|Fold3(Pituitary)|Fold4(Meningioma)|Fold4(Glioma)|Fold4(Pituitary)|Fold5(Meningioma)|Fold5(Glioma)|Fold5(Pituitary)|
---- | --- | --- | --- | --- | --- | ---| --- | --- | --- | --- | ---| --- | --- | --- | --- 
+Attention Used|Fold|Class| Precision | Recall | F1-score
+---|---|---|---|---|---
+
+Attention Used|Metric|Fold1(Meningioma)|Fold1(Glioma)|Fold1(Pituitary)|Fold2(Meningioma)|Fold2(Glioma)|Fold2(Pituitary)|Fold3(Meningioma)|Fold3(Glioma)|Fold3(Pituitary)|Fold4(Meningioma)|Fold4(Glioma)|Fold4(Pituitary)|Fold5(Meningioma)|Fold5(Glioma)|Fold5(Pituitary)|
+--- | --- | --- | --- | --- | --- | ---| --- | --- | --- | --- | ---| --- | --- | --- | --- | ---
+CAB|Precision|0.9910|0.9836|0.9567|0.9281|0.9704|0.9540|

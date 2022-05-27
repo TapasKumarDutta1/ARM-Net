@@ -44,3 +44,7 @@ Dataset Used|Five Fold Average Accuracy
 Brats 2020 | 0.9653
 Figshare | 0.9660
 
+Attention Used|Fold1|Fold2|Fold3|Fold4|Fold5
+--- | --- | --- | --- | --- | ---
+--- | Meningioma |Glioma |Pityuitary| Meningioma |Glioma |Pityuitary| Meningioma |Glioma |Pityuitary| Meningioma |Glioma |Pityuitary| Meningioma |Glioma |Pityuitary| 
+

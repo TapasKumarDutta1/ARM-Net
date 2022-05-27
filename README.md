@@ -84,4 +84,4 @@ PAB|Fold 4|Pituitary|0.9497|0.9770|0.9631
 
 PAB|Fold 5|Meningioma|0.8773|0.9225|0.8993
 PAB|Fold 5|Glioma|0.9616|0.9892|0.9752
-PAB|Fold 5|Pituitary|0.9947|0.9473
+PAB|Fold 5|Pituitary|0.9947|0.9473|0.9473

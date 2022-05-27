@@ -46,7 +46,42 @@ Figshare | 0.9660
 
 Attention Used|Fold|Class| Precision | Recall | F1-score
 ---|---|---|---|---|---
+CAB|Fold 1|Meningioma|0.9910|0.9098|0.9486
+CAB|Fold 1|Glioma|0.9836|0.9917|0.9876
+CAB|Fold 1|Pituitary|0.9567|1.0|0.9778
 
-Attention Used|Metric|Fold1(Meningioma)|Fold1(Glioma)|Fold1(Pituitary)|Fold2(Meningioma)|Fold2(Glioma)|Fold2(Pituitary)|Fold3(Meningioma)|Fold3(Glioma)|Fold3(Pituitary)|Fold4(Meningioma)|Fold4(Glioma)|Fold4(Pituitary)|Fold5(Meningioma)|Fold5(Glioma)|Fold5(Pituitary)|
---- | --- | --- | --- | --- | --- | ---| --- | --- | --- | --- | ---| --- | --- | --- | --- | ---
-CAB|Precision|0.9910|0.9836|0.9567|0.9281|0.9704|0.9540|
+CAB|Fold 2|Meningioma|0.9281|0.9281|1.0
+CAB|Fold 2|Glioma|0.9704|0.9507|0.9604
+CAB|Fold 2|Pituitary|0.9540|0.9940|0.9735
+
+CAB|Fold 3|Meningioma|0.9568|0.8986|0.9267
+CAB|Fold 3|Glioma|0.9350|0.9773|0.9556
+CAB|Fold 3|Pituitary|1.0|0.9950|0.9974
+
+CAB|Fold 4|Meningioma|0.8951|0.9652|0.9288
+CAB|Fold 4|Glioma|0.9907|0.9611|0.9756
+CAB|Fold 4|Pituitary|0.9776|0.9831|0.9803
+
+CAB|Fold 5|Meningioma|0.8734|0.9539|0.8645
+CAB|Fold 5|Glioma|0.9721|0.9893|0.9806
+CAB|Fold 5|Pituitary|0.9947|0.9043|0.9473
+
+PAB|Fold 1|Meningioma|0.9910|0.9250|0.9568
+PAB|Fold 1|Glioma|0.9795|0.9836|0.9815
+PAB|Fold 1|Pituitary|0.9621|1.0|0.9806
+
+PAB|Fold 2|Meningioma|0.9454|0.9341|0.9392
+PAB|Fold 2|Glioma|0.9852|0.9380|0.9610
+PAB|Fold 2|Pituitary|0.9022|0.9874|0.9428
+
+PAB|Fold 3|Meningioma|0.9640|0.8758|0.9177
+PAB|Fold 3|Glioma|0.9264|0.9771|0.9510
+PAB|Fold 3|Pituitary|0.9900|1.0|0.9949
+
+PAB|Fold 4|Meningioma|0.9112|0.9262|0.9186
+PAB|Fold 4|Glioma|0.9969|0.9759|0.9862
+PAB|Fold 4|Pituitary|0.9497|0.9770|0.9631
+
+PAB|Fold 5|Meningioma|0.8773|0.9225|0.8993
+PAB|Fold 5|Glioma|0.9616|0.9892|0.9752
+PAB|Fold 5|Pituitary|0.9947|0.9473

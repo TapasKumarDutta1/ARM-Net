@@ -56,3 +56,22 @@ Densenet121|PAB|95.72|95.58|95.43|95.95
 Densenet121|CAB|96.01|95.86|95.55|96.33
 Densenet121|No Channel Split|95.83|95.66|95.68|96.21
 Densenet121|None|95.34|95.28|95.09|95.88
+
+### Table 3. Comparison with existing CNN based classification methods on the same dataset
+Author|Method|Accuracy(%)
+---|---|---
+Paul et al.|Custom CNN|90.26
+Asfhar et al.|CapsNet|86.56
+Swati et al.|VGG19 with BFT|94.82
+Ghassemi et al.|GAN with custom CNN|93.01
+Ours|CDANet|96.60
+
+### Table 4. Fold-wise Classification Results (in %) of our CDANet on BraTS 2020 dataset
+Fold|Sensitivity|Specificity|F1 Score|Accuracy
+---|---|---|---|---
+Fold1|88.31|80.00|83.94|82.69
+Fold2|100|100|100|100
+Fold3|100|100|100|100
+Fold4|100|100|100|100
+Fold5|100|100|100|100
+Avg.|97.66|96.00|96.78|96.53

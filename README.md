@@ -47,3 +47,12 @@ Fold2|96.59|97.40|96.89|96.61
 Fold3|95.64|96.54|96.00|96.32
 Fold4|97.03|96.00|9649|97.29
 Fold5|94.58|94.35|94.33|95.02
+
+### Table 2. Comparison of different parts of CSDA block
+Model|Attention Type|Sensitivity|Specificity|F1-Score|Accuracy
+---|---|---|---|---|---
+---|Ours|96.14|96.47|96.22|96.60
+---|PAB|95.72|95.58|95.43|95.95
+Densenet121|CAB|96.01|95.86|95.55|96.33
+---|No Channel Split|95.83|95.66|95.68|96.21
+---|None|95.34|95.28|95.09|95.88

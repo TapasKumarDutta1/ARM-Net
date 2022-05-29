@@ -45,8 +45,9 @@ Fold|Sensitivity|Specificity|F1-score|Accuracy
 Fold1|96.87|98.10|97.40|97.78
 Fold2|96.59|97.40|96.89|96.61
 Fold3|95.64|96.54|96.00|96.32
-Fold4|97.03|96.00|9649|97.29
+Fold4|97.03|96.00|96.49|97.29
 Fold5|94.58|94.35|94.33|95.02
+Average|96.14|96.47|96.22|96.60
 
 ### Table 2. Comparison of different parts of CSDA block
 Model|Attention Type|Sensitivity|Specificity|F1-Score|Accuracy

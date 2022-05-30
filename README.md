@@ -26,7 +26,7 @@ Imgaug 0.2.9 <br />
 - Fold5: https://drive.google.com/file/d/1m952RXGEz3dudJTgGW9hAxKagNR9585Y/view?usp=sharing
 
 ## Useage
-- Download the figshare dataset, extract the zip files and put them along with the cvind in the kaggle/input folder.
+- Download the figshare dataset, extract the zip files and put them along with the cvind.mat in the kaggle/input folder.
 
 - Clone the repository, and download the weights of the trained model, put them into 'weights-cdanet' folder, you can run test.py to test the model directly after changing the weight and index. 
 

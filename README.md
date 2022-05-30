@@ -26,13 +26,14 @@ Imgaug 0.2.9 <br />
 - Fold5: https://drive.google.com/file/d/1m952RXGEz3dudJTgGW9hAxKagNR9585Y/view?usp=sharing
 
 ## Useage
-- Clone the repository, and download the weights of the trained model, put them into 'weights-cdanet' folder, you can run test.py to test the model directly. 
+- Download the figshare dataset, extract the zip files and put them along with the cvind in the kaggle/input folder.
+
+- Clone the repository, and download the weights of the trained model, put them into 'weights-cdanet' folder, you can run test.py to test the model directly after changing the weight and index. 
 
 - If you want to train the model, download the dataset
 
 - Run the following code: python train.py. Note that parameters and paths should be set beforehand
 
-- To test the model, run test.py once the training is complete. Execute python test.py once training is complete. 
 
 ## Brats2020 
 Brats is a 3d dataset with 2 different labels 293 HGG and 76 LGG samples. We used a stratified five fold cross validation scheme and trained the entire model in an end to end manner.

@@ -30,9 +30,7 @@ Imgaug 0.2.9 <br />
 
 - Clone the repository, and download the weights of the trained model, put them into 'weights-cdanet' folder, you can run test.py to test the model directly after changing the weight and index. 
 
-- If you want to train the model, download the dataset
-
-- Run the following code: python train.py. Note that parameters and paths should be set beforehand
+- To train the model run the following code: python train.py. Note that parameters and paths should be set beforehand
 
 
 ## Brats2020 

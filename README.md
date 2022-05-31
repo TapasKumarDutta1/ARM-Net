@@ -69,8 +69,6 @@ Bodapati et al.|MSENet| 95.37
 Abirami and Venkatesan| BCFA based GAN| 95.52
 Ours|CDANet|96.60
 
-Ours|CDANet|96.60
-
 ### Table 4. Fold-wise Classification Results (in %) of our CDANet on BraTS 2020 dataset
 Fold|Sensitivity|Specificity|F1 Score|Accuracy
 ---|---|---|---|---

@@ -33,8 +33,8 @@ Imgaug 0.2.9 <br />
 - To train the model run the following code: python train.py. Note that parameters and paths should be set beforehand
 
 
-## Brats2020 
-Brats is a 3d dataset with 2 different labels 293 HGG and 76 LGG samples. We used a stratified five fold cross validation scheme and trained the entire model in an end to end manner.
+## BraTS2020 
+BraTS 2020 dataset contains 2 different labels 293 High Grade Glioma and 76 Low Grade Glioma samples in a 3D MRI format. We used a stratified five fold cross validation scheme and trained the entire model in an end to end manner.
  
 ## Results
 

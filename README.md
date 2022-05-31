@@ -34,7 +34,7 @@ Imgaug 0.2.9 <br />
 
 
 ## BraTS2020 
-BraTS 2020 dataset contains 2 different labels 293 High Grade Glioma and 76 Low Grade Glioma samples in a 3D MRI format. We used a stratified five fold cross validation scheme and trained the entire model in an end to end manner.
+BraTS 2020 dataset contains 293 High-Grade Glioma(HGG) and 76 Low-Grade Glioma(LGG) 3D MR images. We used a stratified five fold cross validation scheme and trained the entire model in an end to end manner.
  
 ## Results
 

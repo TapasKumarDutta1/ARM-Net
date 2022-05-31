@@ -64,6 +64,10 @@ Paul et al.|Custom CNN|90.26
 Asfhar et al.|CapsNet|86.56
 Swati et al.|VGG19 with BFT|94.82
 Ghassemi et al.|GAN with custom CNN|93.01
+Bodapati et al.|Two-Channel DNN| 95.23
+Bodapati et al.|MSENet| 95.37
+Abirami and Venkatesan| BCFA based GAN| 95.52
+
 Ours|CDANet|96.60
 
 ### Table 4. Fold-wise Classification Results (in %) of our CDANet on BraTS 2020 dataset

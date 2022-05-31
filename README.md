@@ -67,6 +67,7 @@ Ghassemi et al.|GAN with custom CNN|93.01
 Bodapati et al.|Two-Channel DNN| 95.23
 Bodapati et al.|MSENet| 95.37
 Abirami and Venkatesan| BCFA based GAN| 95.52
+Ours|CDANet|96.60
 
 Ours|CDANet|96.60
 

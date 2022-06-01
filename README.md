@@ -38,7 +38,7 @@ BraTS 2020 dataset contains two types of tumors: High-Grade Glioma(HGG) and Low-
  
 ## Results
 
-### Table 0. Fold-wise Classification Results (in %) of our CDANet on Figshare dataset
+### Table 1. Fold-wise Classification Results (in %) of our CDANet on Figshare dataset
 Fold|Sensitivity|Specificity|F1-score|Accuracy
 ---|---|---|---|---
 Fold1|96.87|98.10|97.40|97.78

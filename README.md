@@ -80,7 +80,7 @@ Fold5|100|100|100|100
 Avg.|97.66|96.00|96.78|96.53
 
 ### Table 5. Model performance on reduced training data
-Number of training folds used|Accuracy
+Number of training folds used|Accuracy(in %)
 ---|---
 4|96.60
 3|95.81

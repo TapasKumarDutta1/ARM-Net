@@ -22,8 +22,6 @@ Imgaug 0.2.9 <br />
 ## Useage
 - Download the figshare dataset, extract the zip files and put them along with the cvind.mat in the kaggle/input folder.
 
-- Clone the repository, and download the weights of the trained model, put them into 'weights-cdanet' folder, you can run test.py to test the model directly after changing the weight and index. 
-
 - To train the model run the following code: python train.py. Note that parameters and paths should be set beforehand
 
 
